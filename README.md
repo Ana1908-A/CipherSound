@@ -18,7 +18,7 @@
 
 ## Nombre del proyecto
 
-*Generador de Contraseñas Seguras con Sonido*
+*Generador de Contraseñas Seguras con Alerta Sonora*
 
 ---
 
