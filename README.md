@@ -2,11 +2,11 @@
 
 ## Datos informativos
 
-*Universidad:* [Universidad Internacional del Ecuador]  
-*Carrera:* [Ingenieria en Inteligencia Artifical]  
+*Universidad:* Universidad Internacional del Ecuador
+*Carrera:* Ingenieria en Inteligencia Artifical 
 *Asignatura:* Lógica de Programación  
-*Docente:* [Ing. Fernanda Paulina Viscaíno Imacaña]  
-*Estudiante:* [Ana Gabriela Cacuango Narváez]  
+*Docente:* Ing. Fernanda Paulina Viscaíno Imacaña 
+*Estudiante:* Ana Gabriela Cacuango Narváez 
 *Fecha:* 28/06/2026  
 
 ---
