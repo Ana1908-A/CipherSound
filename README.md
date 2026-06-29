@@ -86,3 +86,6 @@ Aunque es un sistema básico, demuestra cómo la programación puede aportar sol
 ## Ejecución del programa
 
 Para ejecutar el sistema, se debe abrir el archivo main.py en un entorno compatible con Python y correr el programa. El usuario debe ingresar la longitud de la contraseña y seleccionar si desea incluir números, mayúsculas y símbolos.
+
+## Video demostrativo
+El video demostrativo muestra la ejecución del sistema CipherSound desde Visual Studio Code. En la demostración se observa cómo el usuario ingresa los datos solicitados, el sistema genera una contraseña aleatoria, evalúa su nivel de seguridad y muestra una alerta sonora o visual según el resultado.
